@@ -13,6 +13,9 @@ PRIVATE_KEY=
 
 ```
 npx hardhat run scripts/deploy.js --network sepolia
+
+Output:
+NFT Contract Address: 0xd916e136af8e73037005a087b91d7Cb24F770343
 ```
 
 - Do duble check `hardhat.config.js` file. It should have entries for `sepolia` testnet added.
