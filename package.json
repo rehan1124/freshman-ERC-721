@@ -1,0 +1,28 @@
+{
+  "name": "freshman-erc-721",
+  "version": "1.0.0",
+  "description": "Solidity project demonstrating ERC-721 and how to use hardhat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehan1124/freshman-ERC-721.git"
+  },
+  "keywords": [],
+  "author": "Syed Rehan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehan1124/freshman-ERC-721/issues"
+  },
+  "homepage": "https://github.com/rehan1124/freshman-ERC-721#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^4.9.2",
+    "hardhat": "^2.16.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
